@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Flores Amarillas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Flores_Amarillas_jar</output-path>
+    <root id="archive" name="Flores Amarillas.jar">
+      <element id="module-output" name="Flores Amarillas" />
+    </root>
+  </artifact>
+</component>
