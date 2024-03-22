@@ -2,11 +2,10 @@
 
 Un lindo programa escrito en Java por un desarrollador enamorado para regalar flores amarillas cada 21 de Marzo o cada que quieras y cuando quieras. Los girasoles se generan al dar click sobre el campo de girasoles. 
 
-<div align="center">
-  <img src="imagenes-README/girasoles.png" alt="Girasoles">
-  <img src="imagenes-README/girasolesActivos.png" alt="Girasoles Activos">
+<div style="text-align: center;">
+    <img src="imagenes-README/girasoles.png" alt="Girasoles" style="width: 50%; display: inline-block; vertical-align: middle;">
+    <img src="imagenes-README/girasolesActivos.png" alt="Girasoles Activos" style="width: 50%; display: inline-block; vertical-align: middle;">
 </div>
-
 
 ## Caracteristicas
 
